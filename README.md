@@ -24,18 +24,9 @@ The primary purpose of this study is to examine opinions about ethics education 
 ### Participants
 
 #### Group 1: Professionals in the Field
-- Dr. Seyid Amjad Ali - Bilkent University, Asst. Prof.
-- Dr. Oumout Chouseinoglou - Bilkent University, Asst. Prof.
-- H. Doruk Fişek - Bilkent University, Part-Time Instructor, Özgür Yazılım A.Ş., Managing Partner
-- Kenan Köroğlu - Ante Grup Bilişim A.Ş., Founder/Chairman of the Board
-- Dr. Hakan Kılınç - Orion Innovation, Project Manager
 
 #### Group 2: Students (No courses in computer ethics)
-- Alperen Şahin - Bilkent University, Faculty of Business Administration
-- Can Türkmen - Sabancı University, Computer Science
-- Sera Altuner - Bilkent University, Information Systems and Technologies
-- Berke Sayıcıoğlu - Bilkent University, Information Systems and Technologies
-- Berkay Ceylan - TED University, Computer Science
+
 
 ### Data Collection and Instruments
 
