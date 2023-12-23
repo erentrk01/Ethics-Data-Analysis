@@ -52,19 +52,19 @@ Data for this survey is collected through one-to-one online meetings using Zoom,
 
 ## Python Files
 
-### Chart Analysis (chart.py)
+### Chart Analysis (q1.py)
 
 This Python script analyzes the responses to the question: "Why have a computer ethics course in computer-related departments?" The analysis is presented in a bar chart using Plotly.
 
-### Spider Chart (spider.py)
+### Spider Chart (students excluded) (q2-ExcludeStu.py)
 
 This Python script creates a spider chart to visualize the importance of different subjects in computer ethics. The chart includes responses from professionals and excludes student participants.
 
-### Spider Chart for Students (spider-onlyStudents.py)
+### Spider Chart for Students (q2-Students.py)
 
 This Python script creates a spider chart to visualize the importance of different subjects in computer ethics, considering only student participants.
 
-### Overall Spider Chart (spider-allParticipants.py)
+### Overall Spider Chart (q2.py)
 
 This Python script creates a spider chart to visualize the importance of different subjects in computer ethics, considering all participants.
 
